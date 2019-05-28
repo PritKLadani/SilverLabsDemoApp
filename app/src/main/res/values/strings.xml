@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SilverLabsDemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_title">Sort Data</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="sort_according">
+        <item>Age</item>
+        <item>Height</item>
+        <item>Popularity</item>
+    </string-array>
+</resources>
